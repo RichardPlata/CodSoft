@@ -8,4 +8,4 @@ This project was developed during the Codsoft internship in the UX/UI design sec
 2. 🛒 [E-commerce Website](./UXUI Internship/E-commerce Website)
 3. 🧾 [Mobile APP Sign Up Flow](./UXUI Internship/Mobile App Sign Up Flow)
 
-Each includes a case study, interactive prototype in Figma and UX/UI case study.
+Each includes a case study, an interactive prototype in Figma, and a UX/UI case study.
