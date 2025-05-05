@@ -4,8 +4,8 @@ This project was developed during the Codsoft internship in the UX/UI design sec
 
 ## 📁 Projects
 
-1. 🍽️ [Restaurant Menu](./UXUI Internship/Restauran Menu)
-2. 🛒 [E-commerce Website](./UXUI Internship/E-commerce Website)
-3. 🧾 [Mobile APP Sign Up Flow](./UXUI Internship/Mobile App Sign Up Flow)
+1. 🍽️ [Restaurant Menu](./UXUI Internship Program/Restaurant Menu)
+2. 🛒 [E-commerce Website](./UXUI Internship Program/E-commerce Website)
+3. 🧾 [Mobile APP Sign Up Flow](./UXUI Internship Program/Sign-Up Flow)
 
 Each includes a case study, an interactive prototype in Figma, and a UX/UI case study.
