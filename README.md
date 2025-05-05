@@ -1,7 +1,7 @@
 # Codsoft UX/UI – Projects
 
 This repository contains three UX/UI design projects developed during the internship.
-## 📁 Proyectos incluidos
+## 📁 Included Projects
 
 1. 🍽️ [Restaurant Menu](./UXUI-Intenship-Program/Restaurant-Menu)
 2. 🛒 [E-commerce Website](./UXUI-Intenship-Program/E-commerce-Website)
